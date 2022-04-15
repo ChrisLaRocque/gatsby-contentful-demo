@@ -2,7 +2,7 @@ import * as React from "react";
 import {graphql} from 'gatsby';
 import { GatsbyImage } from "gatsby-plugin-image";
 const SSRPage = (props) => {
-  console.log(props)
+  // console.log(props)
   const { serverData, data } = props
   return (
   <main className="page" >

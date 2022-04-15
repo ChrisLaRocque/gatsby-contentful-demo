@@ -23,6 +23,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-gatsby-cloud`,
+    'gatsby-plugin-netlify',
     `gatsby-plugin-image`,
     `gatsby-plugin-mdx`,
     {
